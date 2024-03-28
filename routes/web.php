@@ -5,7 +5,7 @@ use App\Http\Controllers\ClienteController;
 use App\Http\Controllers\AssistenciaController;
 
 Route::get('/', function () {
-    return view('layout.app'); 
+    return view('welcome');
 });
 
 Route::prefix('clientes')->group(function () {

@@ -1,6 +1,6 @@
+@extends('welcome')
 
-
-
+@section('content')
     <h1>Lista de Assistências</h1>
 
     @if ($assistencias->isEmpty())
@@ -12,4 +12,7 @@
             @endforeach
         </ul>
     @endif
+
+@endsection
+
 

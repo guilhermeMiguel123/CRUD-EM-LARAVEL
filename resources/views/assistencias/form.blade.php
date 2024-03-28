@@ -1,5 +1,5 @@
 
-
+@section('form')
     <h1>{{ isset($assistencia) ? 'Editar Assistência' : 'Nova Assistência' }}</h1>
     <form action="{{ isset($assistencia) ? route('assistencias.update', $assistencia->id) : route('assistencias.store') }}" method="POST">
         @csrf
@@ -13,3 +13,4 @@
      
         <button type="submit">{{ isset($assistencia) ? 'Atualizar' : 'Salvar' }}</button>
     </form>
+@endsection

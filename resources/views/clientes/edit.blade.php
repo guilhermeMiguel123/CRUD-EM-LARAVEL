@@ -1,10 +1,8 @@
 
+@extends('welcome')
 
-
+@section('content')
     <h1>Editar Cliente</h1>
-
-    
-
         <form method="POST" action="{{ isset($cliente) ? route('clientes.update', $cliente->id) : route('clientes.store') }}">
             @csrf
             @if(isset($cliente))
@@ -31,3 +29,4 @@
         </form>
 
     
+@endsection
