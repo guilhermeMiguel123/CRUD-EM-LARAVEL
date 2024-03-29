@@ -1,4 +1,7 @@
+
 @extends('welcome')
+
+@include('assistencias.form')
 
 @section('content')
     <h1>Lista de Assistências</h1>

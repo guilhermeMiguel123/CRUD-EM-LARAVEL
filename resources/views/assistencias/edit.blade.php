@@ -1,6 +1,4 @@
-
-
-@extends('layouts.app')
+@extends('welcome')
 
 @section('content')
     <h1>Editar Assistência</h1>

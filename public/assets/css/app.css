@@ -53,16 +53,17 @@ nav ul li a:hover {
 
 
 footer {
-    background-color: #f8f9fa; 
-    padding: 10px;
+    background-color: #031c36; 
+    padding: 20px;
     text-align: center;
     position: fixed;
+    color: #ccc;
     bottom: 0;
     width: 100%;
 }
 
 header {
-    background-color: #007bff; 
+    background-color: #031c36; 
     color: #fff; 
     padding: 20px;
     text-align: center;

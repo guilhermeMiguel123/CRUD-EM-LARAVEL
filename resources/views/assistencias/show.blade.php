@@ -1,5 +1,6 @@
 
-@extends('layouts.app')
+@extends('welcome')
+
 
 @section('content')
     <h1>Detalhes da Assistência</h1>
