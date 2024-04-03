@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-# Título do Projeto
+# CRUD EM LARAVEL
 
 Este é um sistema simples de controle de clientes mensais para a assistência técnica de Gilberto, desenvolvido em Laravel. O sistema permite gerenciar clientes e suas assistências associadas.
 
