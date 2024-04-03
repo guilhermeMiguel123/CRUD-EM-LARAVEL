@@ -57,15 +57,15 @@ php artisan key:generate
 php artisan migrate
 
 
-Uso
+#Uso
 Instruções sobre como utilizar o projeto após a instalação. Pode incluir exemplos de comandos, capturas de tela ou vídeos demonstrativos.
 
-Contribuição
+#Contribuição
 Instruções sobre como contribuir com o projeto, guia de estilo de código, políticas de pull request, etc.
 
-Licença
+#Licença
 Informações sobre a licença do projeto.
 
-Contato
+#Contato
 Informações de contato do mantenedor do projeto.
 php artisan serve
