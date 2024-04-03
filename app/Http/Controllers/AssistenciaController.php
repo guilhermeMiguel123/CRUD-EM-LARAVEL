@@ -51,11 +51,9 @@ public function index()
         return redirect()->route('assistencias.index')->with('success', 'Assistência atualizada com sucesso!');
     }
 
-    public function destroy($id)
+    public function destroy(Assistencia $assistencia)
     {
-        $assistencia = Assistencia::findOrFail($id);
         $assistencia->delete();
-
-        return redirect()->route('assistencias.index')->with('success', 'Assistência excluída com sucesso!');
+        return redirect()->route('assistencias.index')->with('success', 'Assistência excluída com sucesso.');
     }
 }
