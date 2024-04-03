@@ -28,7 +28,9 @@ Lista das principais tecnologias utilizadas no projeto.
 - [PHP](https://www.php.net/downloads) (versão 7.3 ou superior)
 - [Composer](https://getcomposer.org/download/)
 - [WampServer](http://www.wampserver.com/en/) (ou qualquer outro servidor Apache/MySQL)
-- DBeaver
+- [Laravel](https://laravel.com/docs/4.2)
+- [Composer](https://getcomposer.org/download/)
+- [DBeaver](https://dbeaver.io/download/)
 
 ## Instalação
 
