@@ -40,6 +40,8 @@ Instruções passo a passo sobre como instalar e configurar o projeto em um ambi
 4. Configure o arquivo .env.
 5. Execute as migrações do banco de dados.
 6. Inicie o servidor local.
+5. Configure o arquivo `.env` com as informações do seu ambiente, incluindo a conexão com o banco de dados.
+6. Gere a chave de aplicativo do Laravel:
 
 
 ## Funcionalidades
