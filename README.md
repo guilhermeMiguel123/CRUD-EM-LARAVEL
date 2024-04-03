@@ -9,7 +9,7 @@
 
 # Título do Projeto
 
-Breve descrição ou introdução ao projeto.
+Este é um sistema simples de controle de clientes mensais para a assistência técnica de Gilberto, desenvolvido em Laravel. O sistema permite gerenciar clientes e suas assistências associadas.
 
 ## Índice
 
@@ -25,10 +25,9 @@ Breve descrição ou visão geral do projeto.
 
 Lista das principais tecnologias utilizadas no projeto.
 
-- Laravel
-- PHP
-- Composer
-- XAMPP
+- [PHP](https://www.php.net/downloads) (versão 7.3 ou superior)
+- [Composer](https://getcomposer.org/download/)
+- [WampServer](http://www.wampserver.com/en/) (ou qualquer outro servidor Apache/MySQL)
 - DBeaver
 
 ## Instalação
@@ -41,6 +40,27 @@ Instruções passo a passo sobre como instalar e configurar o projeto em um ambi
 4. Configure o arquivo .env.
 5. Execute as migrações do banco de dados.
 6. Inicie o servidor local.
+
+
+## Funcionalidades
+
+- CRUD de Clientes: permite criar, listar, editar e visualizar clientes.
+- CRUD de Assistências: permite criar, listar, editar e visualizar assistências.
+- Consulta de assistências por cliente e data.
+
+## Contribuição
+
+Contribuições são bem-vindas! Se você quiser contribuir para este projeto, siga as etapas abaixo:
+
+1. Faça um fork do projeto.
+2. Crie uma nova branch (`git checkout -b feature/nova-funcionalidade`).
+3. Commit suas alterações (`git commit -am 'Adiciona nova funcionalidade'`).
+4. Faça push para a branch (`git push origin feature/nova-funcionalidade`).
+5. Abra um novo Pull Request.
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
 
 
 Exemplo de comandos:
