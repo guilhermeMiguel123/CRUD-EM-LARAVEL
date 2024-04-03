@@ -25,6 +25,7 @@ Breve descrição ou visão geral do projeto.
 
 Lista das principais tecnologias utilizadas no projeto.
 
+
 - [PHP](https://www.php.net/downloads) (versão 7.3 ou superior)
 - [Composer](https://getcomposer.org/download/)
 - [WampServer](http://www.wampserver.com/en/) (ou qualquer outro servidor Apache/MySQL)
