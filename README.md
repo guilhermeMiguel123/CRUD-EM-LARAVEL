@@ -23,7 +23,7 @@ Clonar o repositório: Clone este repositório em sua máquina local usando o se
 
 bash
 Copy code
-git clone git@github.com/guilhermeMiguel123/CRUD-EM-LARAVEL.git
+git clone git@github.com:guilhermeMiguel123/CRUD-EM-LARAVEL.git
 Instalar dependências PHP: Navegue até o diretório do projeto e execute o comando Composer para instalar as dependências do PHP:
 
 bash
