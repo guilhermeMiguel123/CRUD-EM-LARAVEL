@@ -10,7 +10,7 @@
 
 
 
-###Projeto CRUD em Laravel
+Projeto CRUD em Laravel
 Este é um projeto CRUD (Create, Read, Update, Delete) desenvolvido em Laravel, uma estrutura de aplicativo da web em PHP. O objetivo deste projeto é fornecer uma aplicação básica para gerenciar clientes e assistências técnicas.
 
 Pré-requisitos
