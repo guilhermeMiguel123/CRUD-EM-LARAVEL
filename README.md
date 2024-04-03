@@ -46,16 +46,6 @@ Instruções passo a passo sobre como instalar e configurar o projeto em um ambi
 5. Execute as migrações do banco de dados.
 6. Inicie o servidor local.
 
-Exemplo de comandos:
-
-```bash
-git clone https://github.com/seu-usuario/seu-projeto.git
-cd seu-projeto
-composer install
-cp .env.example .env
-php artisan key:generate
-php artisan migrate
-
 
 #Uso
 Instruções sobre como utilizar o projeto após a instalação. Pode incluir exemplos de comandos, capturas de tela ou vídeos demonstrativos.
@@ -69,3 +59,15 @@ Informações sobre a licença do projeto.
 #Contato
 Informações de contato do mantenedor do projeto.
 php artisan serve
+Exemplo de comandos:
+
+```bash
+git clone https://github.com/seu-usuario/seu-projeto.git
+cd seu-projeto
+composer install
+cp .env.example .env
+php artisan key:generate
+php artisan migrate
+
+
+
