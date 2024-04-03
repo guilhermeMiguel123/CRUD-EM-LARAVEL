@@ -42,7 +42,7 @@
     <section class="inner-page">
       <div class="container">
   
-        <p>Nossa plataforma foi projetada para facilitar o controle e o acompanhamento das assistências prestadas pela sua assistência técnica.</p>
+        <p>Seja bem-vindo ao nosso sistema de gerenciamento de assistências! Nossa plataforma foi projetada para facilitar o controle e o acompanhamento das assistências prestadas pela sua assistência técnica.</p>
       </div>
     </section>
  
