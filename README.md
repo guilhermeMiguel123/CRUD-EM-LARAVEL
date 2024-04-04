@@ -38,12 +38,19 @@ Lista das principais tecnologias utilizadas no projeto.
 Instruções passo a passo sobre como instalar e configurar o projeto em um ambiente local.
 
 . Clone o repositório.
+
 . Instale as dependências com o Composer.
+
 . Configure o arquivo `.env` com as informações do seu ambiente, incluindo a conexão com o banco de dados.
+
 . Configure o ambiente de desenvolvimento (XAMPP, DBeaver, etc.).
+
 . Configure o arquivo .env.
+
 . Execute as migrações do banco de dados.
+
 . Inicie o servidor local.
+
 . Gere a chave de aplicativo do Laravel:
 
 
