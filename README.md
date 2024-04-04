@@ -31,21 +31,20 @@ Lista das principais tecnologias utilizadas no projeto.
 - [Composer](https://getcomposer.org/download/)
 - [WampServer](http://www.wampserver.com/en/) (ou qualquer outro servidor Apache/MySQL)
 - [Laravel](https://laravel.com/docs/4.2)
-- [Composer](https://getcomposer.org/download/)
 - [DBeaver](https://dbeaver.io/download/)
 
 ## Instalação
 
 Instruções passo a passo sobre como instalar e configurar o projeto em um ambiente local.
 
-1. Clone o repositório.
-2. Instale as dependências com o Composer.
-3. Configure o ambiente de desenvolvimento (XAMPP, DBeaver, etc.).
-4. Configure o arquivo .env.
-5. Execute as migrações do banco de dados.
-6. Inicie o servidor local.
-5. Configure o arquivo `.env` com as informações do seu ambiente, incluindo a conexão com o banco de dados.
-6. Gere a chave de aplicativo do Laravel:
+. Clone o repositório.
+. Instale as dependências com o Composer.
+. Configure o arquivo `.env` com as informações do seu ambiente, incluindo a conexão com o banco de dados.
+. Configure o ambiente de desenvolvimento (XAMPP, DBeaver, etc.).
+. Configure o arquivo .env.
+. Execute as migrações do banco de dados.
+. Inicie o servidor local.
+. Gere a chave de aplicativo do Laravel:
 
 
 ## Funcionalidades
