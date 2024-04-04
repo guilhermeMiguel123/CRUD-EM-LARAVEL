@@ -45,8 +45,6 @@ Instruções passo a passo sobre como instalar e configurar o projeto em um ambi
 
 . Configure o ambiente de desenvolvimento (XAMPP, DBeaver, etc.).
 
-. Configure o arquivo .env.
-
 . Execute as migrações do banco de dados.
 
 . Inicie o servidor local.
